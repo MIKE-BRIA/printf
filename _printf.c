@@ -1,5 +1,9 @@
 #include "main.h"
 
+/**
+ * this creates a space in memory where the chars are stored temporarily
+ */
+
 void print_buffer(char buffer[], int *buff_ind);
 
 /**
